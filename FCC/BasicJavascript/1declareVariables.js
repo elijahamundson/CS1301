@@ -2,6 +2,7 @@
 
 var a;
 
+var c = "tuna";
 var b = 2;
 
 
